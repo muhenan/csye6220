@@ -1,0 +1,46 @@
+<web-app>
+
+	<!-- Part2 -->
+<!-- 	<servlet>
+		<servlet-name>helloservlet</servlet-name>
+		<servlet-class>Part2Servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>helloservlet</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping> -->
+
+	<!-- Part3 -->
+<!-- 	<servlet>
+		<servlet-name>part3servlet</servlet-name>
+		<servlet-class>Part3Servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>part3servlet</servlet-name>
+		<url-pattern>/submit</url-pattern>
+	</servlet-mapping> -->
+
+	<!-- Part4 -->
+	<servlet>
+		<servlet-name>part4servlet</servlet-name>
+		<servlet-class>Part4Servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>part4servlet</servlet-name>
+		<url-pattern>/submit</url-pattern>
+	</servlet-mapping>
+
+
+	<!-- Part5 -->
+<!-- 	<servlet>
+		<servlet-name>part5servlet</servlet-name>
+		<servlet-class>Part5Servlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>part5servlet</servlet-name>
+		<url-pattern>/part5</url-pattern>
+	</servlet-mapping>
+ -->
+
+
+</web-app>
